@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Travel Planner India</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main-wrapper">
+    <!-- Form Box -->
+    <div class="container">
+      <h1>AI Travel Planner India</h1>
+      <form id="plannerForm">
+        <input type="text" id="city" placeholder="Destination City" required>
+        <input type="number" id="days" placeholder="Number of Days" required>
+        <input type="number" id="budget" placeholder="Total Budget (INR)" required>
+        <button type="submit">Generate Plan</button>
+      </form>
+    </div>
+    <!-- Result Box -->
+    <div id="resultContainer">
+      <h2>Your Travel Plan</h2>
+      <div id="result"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
