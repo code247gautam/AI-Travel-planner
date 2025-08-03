@@ -40,7 +40,7 @@ AI Travel Planner India is a simple web application built with **HTML, CSS, Java
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/code247gautam/ai-travel-planner-india.git
+   git clone https://github.com/code247gautam/AI-Travel-planner.git
    cd ai-travel-planner-india
    ```
 
