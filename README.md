@@ -140,5 +140,3 @@ This project is open-source and free to use. You can modify, share, and distribu
 * [Flask](https://flask.palletsprojects.com/)
 * [Google Fonts (Poppins)](https://fonts.google.com/specimen/Poppins)
 
--
-
