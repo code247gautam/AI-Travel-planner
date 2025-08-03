@@ -7,12 +7,14 @@ AI Travel Planner India is a simple web application built with **HTML, CSS, Java
 
 ## 📁 Project Structure
 
-
-.
 ├── app.py           # Main Flask backend server
+<br>
 ├── index.html       # Frontend HTML UI
+<br>
 ├── style.css        # Styling for the web app
+<br>
 ├── app.js           # JavaScript for client-side interaction
+<br>
 ├── README.md        # Project documentation
 
 
@@ -54,11 +56,10 @@ AI Travel Planner India is a simple web application built with **HTML, CSS, Java
 
    `python
    WEATHER_API_KEY = "YOUR_API_KEY_HERE"
-   ```
-
+   
 4. **Run the server**
 
-   ```bash
+   ```cmd
    python app.py
    
 
@@ -130,7 +131,7 @@ AI Travel Planner India is a simple web application built with **HTML, CSS, Java
 
 ## 📝 License
 
-This project is open-source and free to use. You can modify, share, and distribute it under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and free to use. You can modify, share, and distribute it is only for educational purpose and gain knowledge
 
 ---
 
